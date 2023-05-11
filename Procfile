@@ -1,1 +1,1 @@
-Drone: gunicorn app:app python -m main
+Drone:python -m main
